@@ -37,7 +37,7 @@ The dataset contains 6435 rows and 8 columns. Features include:
 
 ## Data Pre-processing Steps and Inspiration
 1. Data loading and inspection
-2. Conversion of the `Date` column to datetime format
+2. Conversion of the 'Date' column to datetime format
 3. Handling missing data
 4. Visualization of sales over time to understand trends
 
