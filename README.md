@@ -79,6 +79,4 @@ The project successfully forecasted sales for the next 12 weeks, providing valua
 1. "Sales Forecasting using Random Forest Algorithm" by S. Senthilkumar and R. Srinath (2020)
 2. "Incorporating External Factors into Sales Forecasting Models: A Systematic Review" by A. Kumar et al. (2022)
 
----
 
-This structure is easy to follow and covers all the necessary details of your project.
